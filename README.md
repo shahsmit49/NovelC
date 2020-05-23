@@ -12,7 +12,6 @@ Directions/instructions to install the language
 	- python
     - swipl
   - pip install lark-parser
-  - clone this repository: https://github.com/sakshamjhawar/SER502-Spring2020-Team9 
 
 Directions/instructions to build and run the language (compiler/runtime)
   - Open CLI and navigate to the project src directory
@@ -20,6 +19,3 @@ Directions/instructions to build and run the language (compiler/runtime)
     - sh novelC.sh <path/program_filename>
     - Please replace <path/program_filename> with your program file path and name.
     - Note: The extension should be .nc
-
-Link to the YouTube video
-  - https://youtu.be/yAy-lxSOkrM 
