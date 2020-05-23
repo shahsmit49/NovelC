@@ -1,4 +1,3 @@
-# SER502-Spring2020-Team9
 # Creating a new language-novelC
 
 System on which the compiler and runtime are built
